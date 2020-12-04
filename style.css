@@ -1,0 +1,15 @@
+
+body
+{
+    background: url(Images/Background.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.MainHeader
+{
+    font-size: 225px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 700px;
+    margin-top: auto;
+}
